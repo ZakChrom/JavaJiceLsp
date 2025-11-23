@@ -1,0 +1,10 @@
+.jice/
+.jice/*
+jice
+a.json
+build.sh
+main.jar
+**/node_modules/
+**/node_modules/*
+**/package-lock.json
+**/*.vsix

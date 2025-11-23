@@ -1,0 +1,12 @@
+package {
+    source_dir "src"
+    javac_args "-Xlint:unchecked"
+}
+
+dependencies {
+    "com.google.code.gson:gson" "2.13.2"
+}
+
+repos {
+    
+}
